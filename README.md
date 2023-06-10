@@ -7,7 +7,7 @@ is showcased each day, along with a brief description written by a professional 
 automated email delivery adds convenience and enables users to enjoy a daily dose of
 interesting astronomical wonders without having to manually look for it.
 
-USAGE:
+USAGE: (first clone repository with the command: "git clone https://github.com/jindurkar/astr10-ec")
 
 
 ![USAGE](img/ast1.png)
